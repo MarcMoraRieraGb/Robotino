@@ -4,7 +4,7 @@ There are 2 programs, the main progrma "RobotinoControl" and a function "CalcVar
 
 For acomplish that all is focused as if the robotino is a state machine with 4 states:
 
-1- He sees the line and not an intersection and he corrects his trajectory and follows the line. \n
-2- He sees a intersection, so we use odometry to put the robot above it.
-3- With odometry we make a 90 degree turn to the right or to the left.
-4- Whenever you detect and obstacle you stop.
+1. He sees the line and not an intersection and he corrects his trajectory and follows the line.
+2. He sees a intersection, so we use odometry to put the robot above it.
+3. With odometry we make a 90 degree turn to the right or to the left.
+4. Whenever you detect and obstacle you stop.
